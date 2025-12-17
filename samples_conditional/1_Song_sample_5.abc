@@ -1,0 +1,28 @@
+X: 1
+M: 4/4
+L: 1/8
+Q: 1/4=120
+K: C
+V: 1
+%%clef treble
+z8|
+z6 z3/2
+%%MIDI program 0
+C,/2-|
+[E-G,-C,-]/2[G-E-C-G,-C,-]2[c-G-E-C-G,-C,][c-G-EC-G,]3/2[c-GC] c3/2-[c-G-]/2|
+[c-G-F,,-]/2[c-G-C,F,,][c-G-]3/2[c-G-A,]/2[c-G-]/2 [c-G-C][c-G-A,]/2[c-G-]2[c-G-]/2|
+[c-G-]/2[c-GF,,-]/2[c-F,,]/2[c-C,]/2 cz [g-c-A-F,-]2 [g-c-A-CF,-]/2[g-c-A-F,]3/2|
+[gcA]2 F,,/2z[e-c-G-C,-][e-c-G-G,-C,]/2[e-c-G-G,]/2[ec-G]/2 c/2z[d-B-D-^G,-]/2|
+[d-B-D^G,-]3/2[dB-G,]/2 B/2z[=f-d-A-C,-]2[fdA-CC,]2A/2|
+z[e-c-GE,-] [e-c-E,-][e-c-CE,]/2[ec]2G,,/2 z[d-B-G-]|
+[d-B-GD,-][dBD,-]/2D,/2 z[c-AF-F,,-]/2[cFF,,]/2 C,/2z[c-G-E-C,,][cG-E-]3/2|
+[GEC,-]/2C,3/2 G,/2z[G-E-C-]/2 [c-G-EC-C,,-]3/2[c-G-C-C,,-][c-G-C-G,,-C,,]/2[c-GCG,,-]/2[c-G,,]/2|
+c-[c-A-F-C-F,,-] [c-A-F-CC,-F,,]/2[cA-FC,]/2A/2z[G-E-C-C,,-]/2[c-G-E-C-C,,]/2[cG-EC-]3/2[GCC,]/2z/2|
+z[B-^F^D-B,-B,,,-]3/2[BDB,B,,,-]/2B,,,/2-[B,,B,,,]/2 z3/2[^A-F-D-A,-A,,,][A-F-DA,]/2[AF]/2z/2|
+^A,,/2z3/2 [^d-A-^F-D-B,,-]3[dA-F-D-F,-B,,-] [A-F-DF,-B,,-]/2[AFA,F,B,,]/2z|
+z[^G-E-B,-E,,-]/2[B-G-E-B,-E,,-]2[BG-EB,B,,-E,,-][G-B,,-E,,]/2[GB,,]/2E,/2 z3/2[^c-=G-E-C-C,,-]/2|
+[^c-GE-CC,,]3/2[c-E]/2 c/2z[A-E-A,-]/2 [A-EA,-E,-]2 [AA,E,-]/2E,/2z|
+[A-A,-F,-]/2[A-F-C-A,-F,]3/2 [A-F-C-A,]/2[A-F-CF,-][AFF,-]/2 F,z [A-F-C-F,,-]/2[A-F-C-C,-F,,]/2[A-FC-C,]/2[AC-]/2|
+[C^D,]/2z/2[A-E-C-^F,,-] [A-E-CC,-F,,-][AE-C,-F,,-]/2[EC,-F,,-]/2 [C,-F,,-]/2[CC,F,,-]/2F,,/2z3/2[B-F-D-B,-B,,,-]|
+[B-^F-^D-B,-B,,,-][B-FDB,-F,,-B,,,-] [BB,F,,B,,,-]/2B,,,/2z/2[^A-FDA,]A/2B,,/2z3/2[G-E-B,-E,,-]|
+[G-E-B,-E,,-][GEB,B,,E,,] z3/2[^G-EB,-E,-][GB,-E,-]/2[B,E,]/2z/2 E,,/2-[A-E-B,-E,,-]3

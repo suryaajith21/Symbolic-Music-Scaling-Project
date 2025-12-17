@@ -1,0 +1,83 @@
+X: 1
+M: 3/4
+L: 1/8
+Q:1/4=150
+K:G % 1 sharps
+V:1
+%%clef treble
+[DB,]2 [CA,]2 [DG,]2|
+[GB,]3[BG] [AF][BG]|
+[A-C]2 [AD-][BD-]/2[cD]/2 d2|
+[BG]2 G,2 A,B,|
+[AC]2 [GD-]2 [FD-][ED]|
+D4 D2|
+[EC]2 [DB,-][GB,] [FC-][GC]|
+[BD-]2 [AD]2 D2|
+[GB,]2 [FD]2 [EA,]2|
+[DD]6|
+z2 [DB,]2 [CA,]2|
+[DG,][GB,]3 [BG][AF]|
+[BE]2 [AF]2 [GE]2|
+[DD]6|
+z2 [DB,]2 [CA,]2|
+[DG,][GB,]3 [BG][AF]|
+[BE]2 [AF]2 [GE]2|
+D4 D2|
+[EC]2 [DB,-][GB,] [FC-][GC]|
+[BD-]2 [AD]2 D2|
+[GD]2 [FD]2 [EA,]2|
+[DD]6|
+G,6|
+G,2 G,3G,|
+G,4 D,2|
+G,6|
+B,,2 C,2 D,2|
+G,6-|G,2
+V:2
+%%MIDI program 1
+G2 DG AG|
+G2 DG AG|
+G2 DG AG|
+G2 DG AG|
+G2 DB cB|
+AG A2 GF|
+D6|
+d2 Gd ed|
+ed d^c dc|
+dd Gd cB|
+A2 D2 D2|
+D6|
+z2 Bc dB|
+cB GA BA|
+GF G2 cd|
+e2 G2 f3/2-[fe]/2|
+[ed-]/2d4-d3/2|
+G2 G2 f2|
+e2 B2 c2|
+d2 G2 A2|
+B6-|B2
+V:3
+%%MIDI program 1
+G,,2 D,2 [G,F,]2|
+[G,-G,,]2 [G,D,-][CD,] [CF,]2|
+[B,G,]2 [B,G,,-][CG,,] [DD,-][CD,]|
+[DB,]2 [B,G,,]2 z2|
+[G,G,,]2 [G,B,,]2 [G,C,]2|
+[G,D,]4 [DF,]2|
+[DG,][EC] [DD,-][A,D,] [DD,-][CD,]|
+[B,-G,]2 [B,E,]2 [DD,]2|
+[EA,,-][DA,,-]/2[CA,,]/2 [DD,-]2 [CD,-][B,D,]|
+[A,-D,]2 [A,D,-]2 [DD,]2|
+[G,G,,-]6|
+[G,G,,]2 G,,2 F,D,|
+[B,-G,,]2 [B,F,]2 [CC,-][B,C,]|
+[A,D,]2 [DD,-][CD,] [DG,,-][G,G,,]|
+[G,-G,][DG,] [DB,-][GB,] B2|
+A2 D4|
+z2 GB dc|
+Bd GB Dd|
+ce Gc D2|
+B3/2-[BA]/2 B2 A3/2-[AG]/2|
+[GD-]/2D4-D3/2-|D2
+
+
