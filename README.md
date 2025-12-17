@@ -150,12 +150,12 @@ notebooks/TRAIN_BEST_MODEL.ipynb
 ### Unconditional generation
 Script: Best Model/src/generate_unconditional.py
 
-Example outputs: unconditional_generation_samples/
+Example outputs: samples_unconditional/
 
 ## Conditional / prompted generation
 Script: Best Model/src/generate_local.py
 
-Example outputs: conditional generation samples/
+Example outputs: samples_conditional/
 
 ---
 
